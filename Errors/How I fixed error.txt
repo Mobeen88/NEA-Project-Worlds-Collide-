@@ -1,0 +1,15 @@
+ARGUMENT ERROR #1: I forgot to add self
+
+ARGUEMNT ERROR #2: Added main() to the loop() function
+
+Name Error #3: Forgot to add self before screen
+
+Name Error #4: Forgot to add self into the paramters in draw function
+
+File Not Found Error #5: Forgot to add .png at the end of the 'Graphics/Character Spritesheet'
+
+Syntax Error #6: Forgot to add colons at the end of QUIT:
+
+File Not Found Error #7: Forgot to add .png at the end
+
+WHEN THE WORLD FALTERS THAT IS WHEN A NEW CRISIS OCCURS. IN THE DAY OF THE FINAL MOMENTUM, A STRIKING ATTACK OF THE NEW AGES WOULD HAVE BEGUN, THUS A
