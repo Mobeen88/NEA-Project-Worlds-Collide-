@@ -1,4 +1,4 @@
-# -Worlds-Collide- -2D Hack & Slash Game
+# Worlds-Collide | 2D Hack & Slash Game
 My first game project — *World Collide*, a hack-and-slash adventure where the main goal is to defeat enemies.  
 This project was built as a way to learn and experiment with **Pygame**, focusing on combat mechanics, player movement, enemy tracking/pathfinding, and creating visually engaging gameplay.
 
