@@ -4,7 +4,7 @@ This project was built as a way to learn and experiment with **Pygame**, focusin
 
 ---
 
-## ✨ Features
+## Features
 - Fast-paced hack-and-slash combat
 - Player movement and controls
 - Enemy tracking and pathfinding AI  
@@ -13,6 +13,6 @@ This project was built as a way to learn and experiment with **Pygame**, focusin
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 - [Python 3.x](https://www.python.org/downloads/)  
 - [Pygame](https://www.pygame.org/news)  
